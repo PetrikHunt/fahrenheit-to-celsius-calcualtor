@@ -1,0 +1,15 @@
+C:\Users\Petrik\source\repos\fahrenheit-to-celsius-calcualtor\fahrenheit-to-celsius-calcualtor\bin\Debug\net6.0\fahrenheit-to-celsius-calcualtor.exe
+C:\Users\Petrik\source\repos\fahrenheit-to-celsius-calcualtor\fahrenheit-to-celsius-calcualtor\bin\Debug\net6.0\fahrenheit-to-celsius-calcualtor.deps.json
+C:\Users\Petrik\source\repos\fahrenheit-to-celsius-calcualtor\fahrenheit-to-celsius-calcualtor\bin\Debug\net6.0\fahrenheit-to-celsius-calcualtor.runtimeconfig.json
+C:\Users\Petrik\source\repos\fahrenheit-to-celsius-calcualtor\fahrenheit-to-celsius-calcualtor\bin\Debug\net6.0\fahrenheit-to-celsius-calcualtor.dll
+C:\Users\Petrik\source\repos\fahrenheit-to-celsius-calcualtor\fahrenheit-to-celsius-calcualtor\bin\Debug\net6.0\fahrenheit-to-celsius-calcualtor.pdb
+C:\Users\Petrik\source\repos\fahrenheit-to-celsius-calcualtor\fahrenheit-to-celsius-calcualtor\obj\Debug\net6.0\fahrenheit-to-celsius-calcualtor.csproj.AssemblyReference.cache
+C:\Users\Petrik\source\repos\fahrenheit-to-celsius-calcualtor\fahrenheit-to-celsius-calcualtor\obj\Debug\net6.0\fahrenheit-to-celsius-calcualtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petrik\source\repos\fahrenheit-to-celsius-calcualtor\fahrenheit-to-celsius-calcualtor\obj\Debug\net6.0\fahrenheit-to-celsius-calcualtor.AssemblyInfoInputs.cache
+C:\Users\Petrik\source\repos\fahrenheit-to-celsius-calcualtor\fahrenheit-to-celsius-calcualtor\obj\Debug\net6.0\fahrenheit-to-celsius-calcualtor.AssemblyInfo.cs
+C:\Users\Petrik\source\repos\fahrenheit-to-celsius-calcualtor\fahrenheit-to-celsius-calcualtor\obj\Debug\net6.0\fahrenheit-to-celsius-calcualtor.csproj.CoreCompileInputs.cache
+C:\Users\Petrik\source\repos\fahrenheit-to-celsius-calcualtor\fahrenheit-to-celsius-calcualtor\obj\Debug\net6.0\fahrenheit-to-celsius-calcualtor.dll
+C:\Users\Petrik\source\repos\fahrenheit-to-celsius-calcualtor\fahrenheit-to-celsius-calcualtor\obj\Debug\net6.0\refint\fahrenheit-to-celsius-calcualtor.dll
+C:\Users\Petrik\source\repos\fahrenheit-to-celsius-calcualtor\fahrenheit-to-celsius-calcualtor\obj\Debug\net6.0\fahrenheit-to-celsius-calcualtor.pdb
+C:\Users\Petrik\source\repos\fahrenheit-to-celsius-calcualtor\fahrenheit-to-celsius-calcualtor\obj\Debug\net6.0\fahrenheit-to-celsius-calcualtor.genruntimeconfig.cache
+C:\Users\Petrik\source\repos\fahrenheit-to-celsius-calcualtor\fahrenheit-to-celsius-calcualtor\obj\Debug\net6.0\ref\fahrenheit-to-celsius-calcualtor.dll
